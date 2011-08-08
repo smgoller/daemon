@@ -1,0 +1,8 @@
+This is a simple daemon python class based on the code available at
+http://www.jejik.com/articles/2007/02/a_simple_unix_linux_daemon_in_python/
+
+This variant adds support for the status command.
+
+This code is in the public domain, just like the original. Do with it as you
+will, but there is no warranty as to its utility or safety. If it blows up
+your house or makes your spouse cheat on you, it's not my problem.
